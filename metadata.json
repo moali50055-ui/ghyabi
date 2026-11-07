@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الحضور والغياب المدرسي",
+  "description": "نظام إلكتروني متكامل لإدارة حضور وغياب الطلاب لـ٢٩ صفاً دراسياً عبر ٨ حصص يومية في سلطنة عُمان مع تقارير وإحصائيات متقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
